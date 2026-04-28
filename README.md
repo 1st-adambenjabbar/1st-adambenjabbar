@@ -5,10 +5,10 @@
 <br/>
 
 <p align="center">
-  <a href="mailto:adam.benjabbar@etu.univ-lorraine.fr">
+  <a href="mailto:adambenjabbar@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/adam-benjabbar">
+  <a href="https://www.linkedin.com/in/adam-benjabbar-002487385/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Nancy%2C%20France-📍-lightgrey?style=for-the-badge"/>
