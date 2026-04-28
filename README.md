@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Adam BENJABBAR</h1>
+<h3 align="center">Étudiant ingénieur IA2R · Polytech Nancy</h3>
+<h4 align="center">Informatique · Automatique · Robotique · Réseaux</h4>
 
-<!--
-**1st-adambenjabbar/1st-adambenjabbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:adam.benjabbar@etu.univ-lorraine.fr">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adam-benjabbar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Nancy%2C%20France-📍-lightgrey?style=for-the-badge"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 À propos
+
+Étudiant en 3ème année à **Polytech Nancy** (spécialité IA2R), passionné par la **robotique autonome**, les **systèmes embarqués** et la **navigation**.  
+---
+## 🛠️ Stack technique
+
+**Langages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Embarqué & Robotique**  
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+**Outils**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+
+## 📊 Stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1st-adambenjabbar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1st-adambenjabbar&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <em>🔍 Ouvert aux opportunités de stage — été 2026 — région Grand Est & remote</em>
+</p>
