@@ -47,7 +47,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=1st-adambenjabbar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1st-adambenjabbar&layout=compact&theme=github_dark&hide_border=true" height="150"/>
 </p>
-
-<p align="center">
-  <em>🔍 Ouvert aux opportunités de stage — été 2026 — région Grand Est & remote</em>
-</p>
