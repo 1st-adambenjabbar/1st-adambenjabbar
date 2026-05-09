@@ -1,66 +1,211 @@
 <div align="center">
 
-<!-- ░░ CYBERPUNK GRID HEADER ░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=12,20,24&text=ADAM%20BENJABBAR&fontColor=F72585&fontSize=60&fontAlignY=55&desc=IA2R%20%7C%20Robotics%20%7C%20Embedded%20AI&descAlignY=75&descColor=00F5FF&animation=fadeIn&stroke=F72585&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00B4D8"/>
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║    ░█████╗░██████╗░░█████╗░███╗░░░███╗                          ║
+║    ██╔══██╗██╔══██╗██╔══██╗████╗░████║                          ║
+║    ███████║██║░░██║███████║██╔████╔██║                          ║
+║    ██╔══██║██║░░██║██╔══██║██║╚██╔╝██║                          ║
+║    ██║░░██║██████╔╝██║░░██║██║░╚═╝░██║                          ║
+║    ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═╝░░░░╚═╝                          ║
+║                                                                  ║
+║         [ BENJABBAR ]  ·  IA2R  ·  POLYTECH NANCY               ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=680&lines=IDENTITY%3A+ADAM+BENJABBAR+%2F%2F+IA2R+ENGINEER;LOCATION%3A+NANCY%2C+FRANCE+%5B48.69N+6.18E%5D;STACK%3A+ROBOTICS+%7C+EMBEDDED+AI+%7C+SLAM;STATUS%3A+BUILDING+AUTONOMOUS+SYSTEMS+%5BONLINE%5D;MISSION%3A+COUPE+DE+FRANCE+DE+ROBOTIQUE+2025" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00B4D8"/>
+
+<br/>
+
+<a href="mailto:adambenjabbar@hotmail.com">
+<img src="https://img.shields.io/badge/%2F%2F_MAIL-adambenjabbar%40hotmail.com-00B4D8?style=flat-square&logo=minutemailer&logoColor=00B4D8&labelColor=0A0A0F&color=0A0A0F"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/adam-benjabbar-002487385/">
+<img src="https://img.shields.io/badge/%2F%2F_LINKEDIN-GRID_NODE-00B4D8?style=flat-square&logo=linkedin&logoColor=00B4D8&labelColor=0A0A0F&color=0A0A0F"/>
+</a>
+&nbsp;
+<a href="https://github.com/1st-adambenjabbar">
+<img src="https://img.shields.io/badge/%2F%2F_GITHUB-SECTOR_NET-00B4D8?style=flat-square&logo=github&logoColor=00B4D8&labelColor=0A0A0F&color=0A0A0F"/>
+</a>
 
 </div>
-
-<!-- ░░ GLITCH TYPING ANIMATION ░░ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=800&lines=⚡+Robotics+%7C+AI+%7C+Embedded+Systems;🤖+Building+Autonomous+Systems;🧭+SLAM+%7C+ROS2+%7C+STM32;⚙️+Physical+AI+%7C+Real-World+Navigation;🔥+Polytech+Nancy+—+IA2R+Engineer" />
-</p>
-
-<!-- ░░ NEON DIVIDER ░░ -->
-<img width="100%" src="https://i.imgur.com/waxVImv.png" />
-
-<!-- ░░ SOCIAL BADGES ░░ -->
-<p align="center">
-  <a href="mailto:adambenjabbar@hotmail.com">
-    <img src="https://img.shields.io/badge/✉_EMAIL-F72585?style=for-the-badge&logoColor=white&labelColor=0D0D0D"/>
-  </a>
-  <a href="https://www.linkedin.com/in/adam-benjabbar-002487385/">
-    <img src="https://img.shields.io/badge/⚡_LINKEDIN-00F5FF?style=for-the-badge&logoColor=black&labelColor=0D0D0D"/>
-  </a>
-  <a href="https://github.com/1st-adambenjabbar">
-    <img src="https://img.shields.io/badge/◈_GITHUB-7B2FBE?style=for-the-badge&logoColor=white&labelColor=0D0D0D"/>
-  </a>
-</p>
 
 <br/>
 
 ---
 
-## ◈ `SYSTEM_INIT` — About Me
+## `// SYSTEM_PROFILE`
 
 ```yaml
-identity:
-  name        : Adam Benjabbar
-  location    : Nancy, France 🇫🇷
-  school      : Polytech Nancy — IA2R (Informatique, Automatique, Robotique)
-  year        : 3rd Year Engineering Student
-
-focus_areas:
-  - Autonomous Robotics & SLAM
-  - Embedded Systems (STM32, Raspberry Pi)
-  - Physical AI & Sensor Fusion
-  - ROS2 Navigation Stack
-
-currently:
-  - Building PAMI robot for Coupe de France de Robotique 🏆
-  - Exploring Isaac Lab simulation environments
-  - Designing drone SLAM pipelines with ROS2
-
-philosophy: "Code the machine. Free the mind."
+╔─ IDENTITY ──────────────────────────────────────────────────────╗
+│  name       :  Adam Benjabbar
+│  alias      :  1st-adambenjabbar
+│  location   :  Nancy, Grand Est, France
+│  school     :  Polytech Nancy — IA2R
+│               (Informatique · Automatique · Robotique)
+│  year       :  3rd Year Engineering Student
+╠─ ACTIVE PROCESSES ──────────────────────────────────────────────╣
+│  [RUN]  PAMI Robot — Coupe de France de Robotique 2025 🏆
+│  [RUN]  Isaac Lab — Sim-to-Real Robot Learning (NVIDIA)
+│  [RUN]  ROS2 Drone SLAM Pipeline
+│  [RUN]  STM32 + KiCad embedded hardware design
+╠─ CORE DIRECTIVES ───────────────────────────────────────────────╣
+│  >>  Autonomous navigation & SLAM
+│  >>  Embedded systems (STM32 · TMC2209 · Raspberry Pi)
+│  >>  Physical AI & real-world robotic control
+│  >>  Sensor fusion & ROS2 Navigation Stack
+╚─────────────────────────────────────────────────────────────────╝
 ```
 
 ---
 
-## ⚡ `TECH_STACK` — Arsenal
+## `// TECH_STACK`
 
-### 💻 Languages
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+**`[ LANGUAGES ]`**
+
+<img src="https://img.shields.io/badge/C++-0A0A0F?style=for-the-badge&logo=cplusplus&logoColor=00B4D8"/>
+<img src="https://img.shields.io/badge/Python-0A0A0F?style=for-the-badge&logo=python&logoColor=00B4D8"/>
+<img src="https://img.shields.io/badge/Java-0A0A0F?style=for-the-badge&logo=openjdk&logoColor=00B4D8"/>
+<img src="https://img.shields.io/badge/MATLAB-0A0A0F?style=for-the-badge&logo=mathworks&logoColor=00B4D8"/>
+<img src="https://img.shields.io/badge/SQL-0A0A0F?style=for-the-badge&logo=mysql&logoColor=00B4D8"/>
+
+<br/><br/>
+
+**`[ ROBOTICS · EMBEDDED ]`**
+
+<img src="https://img.shields.io/badge/ROS2-0A0A0F?style=for-the-badge&logo=ros&logoColor=00B4D8"/>
+<img src="https://img.shields.io/badge/STM32-0A0A0F?style=for-the-badge&logo=stmicroelectronics&logoColor=00B4D8"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-0A0A0F?style=for-the-badge&logo=raspberrypi&logoColor=00B4D8"/>
+<img src="https://img.shields.io/badge/Arduino-0A0A0F?style=for-the-badge&logo=arduino&logoColor=00B4D8"/>
+<img src="https://img.shields.io/badge/Isaac_Lab-0A0A0F?style=for-the-badge&logo=nvidia&logoColor=00B4D8"/>
+<img src="https://img.shields.io/badge/Gazebo_ROS-0A0A0F?style=for-the-badge&logoColor=00B4D8"/>
+
+<br/><br/>
+
+**`[ TOOLS · ENV ]`**
+
+<img src="https://img.shields.io/badge/Linux-0A0A0F?style=for-the-badge&logo=linux&logoColor=00B4D8"/>
+<img src="https://img.shields.io/badge/Git-0A0A0F?style=for-the-badge&logo=git&logoColor=00B4D8"/>
+<img src="https://img.shields.io/badge/KiCad-0A0A0F?style=for-the-badge&logo=kicad&logoColor=00B4D8"/>
+<img src="https://img.shields.io/badge/Docker-0A0A0F?style=for-the-badge&logo=docker&logoColor=00B4D8"/>
+<img src="https://img.shields.io/badge/Simulink-0A0A0F?style=for-the-badge&logo=mathworks&logoColor=00B4D8"/>
+
+</div>
+
+---
+
+## `// PROGRAM_ARCHIVE`
+
+```
+┌──────────────────────────────┬──────────────────────────────────────────────┐
+│  PROGRAM_ID                  │  SPECS                                       │
+├──────────────────────────────┼──────────────────────────────────────────────┤
+│  🛸 ros2_drone_slam          │  Full SLAM pipeline — autonomous drone nav   │
+│     TYPE: ORIGINAL           │  ROS2 · sensor fusion · real-time mapping    │
+│                              │  Lang: Python                                │
+├──────────────────────────────┼──────────────────────────────────────────────┤
+│  🤖 IsaacLab                 │  Robot learning on NVIDIA Isaac Sim          │
+│     FORK: isaac-sim          │  Sim-to-real · physics-accurate worlds       │
+│                              │  Lang: Python                                │
+├──────────────────────────────┼──────────────────────────────────────────────┤
+│  🚁 gazebo_uav_control       │  Quadrotor UAV — PID control + ROS           │
+│     FORK: fdcl-gwu           │  Gazebo simulator · C++ architecture         │
+│                              │  Lang: C++                                   │
+├──────────────────────────────┼──────────────────────────────────────────────┤
+│  🧩 Polytech-Nancy-Backend   │  REST API — student management               │
+│     FORK: fmillerwork        │  Java · Polytech Nancy coursework            │
+│                              │  Lang: Java                                  │
+└──────────────────────────────┴──────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+[![](https://img.shields.io/badge/ros2__drone__slam-0A0A0F?style=flat-square&logo=github&logoColor=00B4D8&label=›)](https://github.com/1st-adambenjabbar/ros2_drone_slam)
+[![](https://img.shields.io/badge/IsaacLab-0A0A0F?style=flat-square&logo=github&logoColor=00B4D8&label=›)](https://github.com/1st-adambenjabbar/IsaacLab)
+[![](https://img.shields.io/badge/gazebo__uav__control-0A0A0F?style=flat-square&logo=github&logoColor=00B4D8&label=›)](https://github.com/1st-adambenjabbar/gazebo_uav_control)
+[![](https://img.shields.io/badge/Polytech__Backend-0A0A0F?style=flat-square&logo=github&logoColor=00B4D8&label=›)](https://github.com/1st-adambenjabbar/Polytech-Nancy-TD-backend-students)
+
+</div>
+
+---
+
+## `// METRICS_FEED` — Live Data
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=1st-adambenjabbar&show_icons=true&theme=merko&hide_border=true&bg_color=0A0A0F&title_color=00B4D8&icon_color=90E0EF&text_color=CAF0F8&ring_color=0077B6&count_private=true&include_all_commits=true&cache_seconds=300"/>
+<img height="175" src="https://streak-stats.demolab.com?user=1st-adambenjabbar&theme=merko&hide_border=true&background=0A0A0F&ring=00B4D8&fire=90E0EF&currStreakLabel=CAF0F8&dates=4A6FA5&currStreakNum=00B4D8&sideNums=90E0EF&sideLabels=4A6FA5"/>
+
+<br/>
+
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1st-adambenjabbar&layout=compact&theme=merko&hide_border=true&bg_color=0A0A0F&title_color=00B4D8&text_color=CAF0F8&cache_seconds=300&langs_count=6"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=1st-adambenjabbar&label=%2F%2F+GRID+SCANS&color=00B4D8&style=flat-square&labelColor=0A0A0F"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/1st-adambenjabbar?label=%2F%2F+FOLLOWERS&style=flat-square&color=00B4D8&labelColor=0A0A0F"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/1st-adambenjabbar?label=%2F%2F+STARS&style=flat-square&color=00B4D8&labelColor=0A0A0F&affiliations=OWNER"/>
+
+</div>
+
+---
+
+## `// ACTIVITY_TRACE`
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=1st-adambenjabbar&bg_color=0A0A0F&color=90E0EF&line=00B4D8&point=CAF0F8&area=true&area_color=00B4D820&hide_border=true&custom_title=COMMIT+SIGNAL+%2F%2F+REAL-TIME"/>
+
+</div>
+
+---
+
+## `// CONTRIBUTION_GRID`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1st-adambenjabbar/1st-adambenjabbar/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1st-adambenjabbar/1st-adambenjabbar/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution grid snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+## `// TROPHIES`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=1st-adambenjabbar&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6&title=Stars,Commit,Repositories,Followers,Issues,PullRequest"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00B4D8"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=4000&pause=1500&color=4A6FA5&center=true&vCenter=true&width=700&lines=%2F%2F+END+OF+LINE.;%2F%2F+POLYTECH+NANCY+·+IA2R+·+ADAM+BENJABBAR;%2F%2F+%22THE+GRID.+A+DIGITAL+FRONTIER.%22"/>
+
+</div>  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
