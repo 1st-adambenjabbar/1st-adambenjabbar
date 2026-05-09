@@ -71,13 +71,13 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=1st-adambenjabbar&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
-  <img height="165" src="https://streak-stats.demolab.com?user=1st-adambenjabbar&theme=radical&hide_border=true" />
+  
+  <img height="165" src="https://streak-stats.demolab.com?user=1st-adambenjabbar&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1st-adambenjabbar&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
-
 ---
 
 ## 🐉 Contribution Snake (Dragon Style)
