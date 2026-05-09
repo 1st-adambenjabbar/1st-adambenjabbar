@@ -160,8 +160,6 @@
 
 ## `// CONTRIBUTION_GRID`
 
-> ⚙️ **Setup required:** Add the [snk GitHub Action](https://github.com/Platane/snk) to your repo to generate the snake animation automatically on every push.
-
 <div align="center">
 
 <picture>
