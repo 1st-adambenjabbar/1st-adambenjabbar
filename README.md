@@ -1,23 +1,25 @@
-# 👋 Hi, I'm Adam Benjabbar
-
+<!-- 🔥 Animated Typing Header -->
 <p align="center">
-  <b>Engineering Student · IA2R @ Polytech Nancy</b><br>
-  Computer Science · Automation · Robotics · Networks
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2500&pause=800&color=F72585&center=true&vCenter=true&width=800&lines=Adam+Benjabbar;IA2R+Engineering+Student;Robotics+%7C+AI+%7C+Embedded+Systems;Building+Autonomous+Systems+🚀" />
 </p>
 
+---
+
+<h1 align="center">👋 Hi, I'm Adam Benjabbar</h1>
+
 <p align="center">
-  🤖 Autonomous Robotics • ⚙️ Embedded Systems • 🧠 Physical AI • 🧭 Navigation
+  🎓 IA2R Engineering Student @ Polytech Nancy <br>
+  🤖 Robotics • ⚙️ Embedded Systems • 🧠 Physical AI • 🧭 Navigation
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 3rd-year engineering student at **Polytech Nancy** (IA2R track)  
-💡 Passionate about building intelligent and autonomous systems  
-🔬 Interested in robotics, SLAM, embedded systems, and real-world AI  
-
-I enjoy turning complex problems into functional and efficient systems.
+- 🎓 3rd-year Engineering Student at **Polytech Nancy**
+- 🤖 Passionate about autonomous robotics & SLAM
+- ⚙️ Strong interest in embedded systems & real-world AI
+- 🧠 I build systems that interact with the physical world
 
 ---
 
@@ -32,7 +34,7 @@ I enjoy turning complex problems into functional and efficient systems.
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🤖 Embedded & Robotics
+### 🤖 Robotics & Embedded
 <p>
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
@@ -51,31 +53,37 @@ I enjoy turning complex problems into functional and efficient systems.
 
 ## 🌟 Featured Projects
 
-### 🚁 IsaacLab
-🔗 https://github.com/1st-adambenjabbar/IsaacLab  
-Robot learning framework using NVIDIA Isaac Sim  
+- 🚁 **IsaacLab**  
+  https://github.com/1st-adambenjabbar/IsaacLab  
 
-### 🧭 ROS2 Drone SLAM
-🔗 https://github.com/1st-adambenjabbar/ros2_drone_slam  
+- 🧭 **ROS2 Drone SLAM**  
+  https://github.com/1st-adambenjabbar/ros2_drone_slam  
 
-### 🛰️ UAV Control (Gazebo + ROS2)
-🔗 https://github.com/1st-adambenjabbar/gazebo_uav_control  
-Quadrotor control using PID (C++)
+- 🛰️ **Gazebo UAV Control**  
+  https://github.com/1st-adambenjabbar/gazebo_uav_control  
 
-### 🧩 Backend Students Project
-🔗 https://github.com/1st-adambenjabbar/Polytech-Nancy-TD-backend-students  
+- 🧩 **Backend Students Project**  
+  https://github.com/1st-adambenjabbar/Polytech-Nancy-TD-backend-students  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1st-adambenjabbar&show_icons=true&theme=radical&hide_border=true&cache_seconds=0&v=1"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=1st-adambenjabbar&theme=radical&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1st-adambenjabbar&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://streak-stats.demolab.com?user=1st-adambenjabbar&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1st-adambenjabbar&layout=compact&theme=radical&hide_border=true&cache_seconds=0&v=1"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1st-adambenjabbar&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
+</p>
+
+---
+
+## 🐉 Contribution Snake (Dragon Style)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -84,14 +92,6 @@ Quadrotor control using PID (C++)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=1st-adambenjabbar&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1st-adambenjabbar&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
@@ -110,5 +110,5 @@ Quadrotor control using PID (C++)
 ---
 
 <p align="center">
-  ⭐ <i>Always building, always learning.</i>
+  ⭐ <i>Building the future, one system at a time.</i>
 </p>
