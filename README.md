@@ -4,12 +4,6 @@ WELCOME
   <img src="./assets/tron_banner.svg" width="100%" alt="Tron Animated Banner" />
 </p>
 
-<div align="center">
-
-<img src="./assets/title_animation.svg" width="600" alt="BE HAPPY" />
-
-</div>
-
 ---
 
 ### 🌐 Statut du Système
