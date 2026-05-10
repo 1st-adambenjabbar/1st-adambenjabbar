@@ -1,4 +1,4 @@
-# 🤖 Système Initialisé : Profil Cybernétique Tron
+WELCOME
 
 <p align="center">
   <img src="./assets/tron_banner.svg" width="100%" alt="Tron Animated Banner" />
@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="./assets/title_animation.svg" width="600" alt="Accès à la Grille Autorisé" />
+<img src="./assets/title_animation.svg" width="600" alt="BE HAPPY" />
 
 </div>
 
@@ -54,9 +54,3 @@ Si vous souhaitez collaborer ou explorer la Grille ensemble, envoyez un signal.
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FF00?style=flat-square" />
   <img src="https://img.shields.io/badge/ACCESS-GRANTED-00d4ff?style=flat-square" />
 </div>
-
----
-
-<p align="right">
-  <i>Généré par Manus AI - Mai 2026</i>
-</p>
