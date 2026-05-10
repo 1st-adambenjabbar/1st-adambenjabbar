@@ -18,26 +18,28 @@
 | Module | Statut | Niveau de Sécurité |
 | :--- | :---: | :--- |
 | **Interface Utilisateur** | En ligne | 🟢 Optimal |
-| **Base de Données Projets** | Synchronisation... | 🟡 En cours |
+| **Base de Données Projets** | Synchronisation... | 🟢 Synchronisé |
 | **IA & Robotique** | Actif | 🔵 Haute Priorité |
 
 ---
 
 ### 🛠️ Arsenal Technologique
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/IsaacSim-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
 </div>
 
 ---
 
 ### 🚀 Projets en cours de Compilation
-1.  **Projet Argon** : Optimisation des flux de données neuronales.
-2.  **Sentinelle Cyber** : Système de défense robotique autonome.
-3.  **Grille V2** : Refonte de l'écosystème numérique.
+1.  **[ros2_drone_slam](https://github.com/1st-adambenjabbar/ros2_drone_slam)** : Implémentation de SLAM pour drones sous ROS2.
+2.  **[IsaacLab](https://github.com/1st-adambenjabbar/IsaacLab)** : Framework unifié pour l'apprentissage robotique sur NVIDIA Isaac Sim.
+3.  **[costum-memory-allocator](https://github.com/1st-adambenjabbar/costum-memory-allocator)** : Développement d'un allocateur de mémoire personnalisé haute performance.
+4.  **[gazebo_uav_control](https://github.com/1st-adambenjabbar/gazebo_uav_control)** : Contrôle PID pour drones quadrirotors dans Gazebo avec C++.
+5.  **[tic-vla](https://github.com/1st-adambenjabbar/tic-vla)** : Exploration et développement de modèles Vision-Language-Action.
 
 ---
 
