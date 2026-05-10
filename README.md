@@ -6,15 +6,7 @@
 
 <div align="center">
 
-<!-- Animation SVG style Tron -->
-<svg width="600" height="60" viewBox="0 0 600 60" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .text { font: bold 35px sans-serif; fill: none; stroke: #00d4ff; stroke-width: 1.2; stroke-dasharray: 500; stroke-dashoffset: 500; animation: draw 4s linear forwards infinite; }
-    .glow { filter: drop-shadow(0 0 8px #00d4ff); }
-    @keyframes draw { to { stroke-dashoffset: 0; } }
-  </style>
-  <text x="50%" y="45" text-anchor="middle" class="text glow">ACCÈS À LA GRILLE AUTORISÉ</text>
-</svg>
+<img src="./assets/title_animation.svg" width="600" alt="Accès à la Grille Autorisé" />
 
 </div>
 
