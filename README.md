@@ -30,6 +30,7 @@ WELCOME
   <img src="https://img.shields.io/badge/Karel-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/ABB%20RAPID-FF0000?style=for-the-badge&logo=abb&logoColor=white" />
 </div>
 
 ---
