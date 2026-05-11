@@ -41,7 +41,7 @@ WELCOME
 Si vous souhaitez collaborer ou explorer la Grille ensemble, envoyez un signal.
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=1st-adambenjabbar&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00d4ff&icon_color=ff9e64&text_color=c0caf5&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <div align="center">
