@@ -3,7 +3,6 @@
 <p align="center">
   <img src="./assets/tron_banner.svg" width="100%" alt="Tron Animated Banner" />
 </p>
----
 ###🛠️ TOOLS
 <div align="center">
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
@@ -29,8 +28,6 @@
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 </div>
----
-
 ### STATS
 If you would like to collaborate or explore the Grid together, send a signal.
 <p align="center">
