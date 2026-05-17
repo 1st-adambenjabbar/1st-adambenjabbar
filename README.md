@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 </div>
----
+
 ## STATS:
 If you would like to collaborate or explore the Grid together, send a signal.
 <p align="center">
