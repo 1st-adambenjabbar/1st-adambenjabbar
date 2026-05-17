@@ -31,7 +31,7 @@
 </div>
 ---
 
-### 📡 Transmission Entrante
+### STATS
 Si vous souhaitez collaborer ou explorer la Grille ensemble, envoyez un signal.
 
 <p align="center">
