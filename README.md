@@ -4,7 +4,7 @@
   <img src="./assets/tron_banner.svg" width="100%" alt="Tron Animated Banner" />
 </p>
 ---
-### 🛠️ Arsenal Technologique
+### 🛠️ TOOLS
 <div align="center">
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -32,8 +32,7 @@
 ---
 
 ### STATS
-Si vous souhaitez collaborer ou explorer la Grille ensemble, envoyez un signal.
-
+If you would like to collaborate or explore the Grid together, send a signal.
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=1st-adambenjabbar&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00d4ff&icon_color=ff9e64&text_color=c0caf5&hide_border=true" alt="GitHub Stats" />
 </p>
