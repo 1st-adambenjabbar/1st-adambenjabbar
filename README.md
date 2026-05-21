@@ -33,7 +33,7 @@
 ## STATS:
 If you would like to collaborate or explore the Grid together, send a signal.
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1st-adambenjabbar&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=1st-adambenjabbar&layout=compact&theme=tokyonight" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=1st-adambenjabbar&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00d4ff&icon_color=ff9e64&text_color=c0caf5&hide_border=true" alt="GitHub Stats" />
