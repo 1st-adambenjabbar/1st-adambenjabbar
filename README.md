@@ -26,7 +26,7 @@
 
 I build and explore projects involving **robotics**, **industrial automation**, **embedded programming**, and **general software development**. My work spans from low-level hardware and microcontrollers to simulation, programming education, and developer tooling.
 
-> If you would like to collaborate or explore the Grid together, feel free to open an issue or start a discussion in one of my repositories.
+> If you would like to collaborate or explore my work together, feel free to open an issue or start a discussion in one of my repositories.
 
 ## Technical toolkit
 
@@ -68,15 +68,10 @@ I build and explore projects involving **robotics**, **industrial automation**, 
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1st-adambenjabbar&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
-  <img src="https://github-readme-stats.vercel.app/api?username=1st-adambenjabbar&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00d4ff&icon_color=ff9e64&text_color=c0caf5&hide_border=true" alt="Statistiques GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1st-adambenjabbar&theme=tokyonight" alt="Résumé de l’activité GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1st-adambenjabbar&theme=tokyonight" alt="Statistiques GitHub" />
 </p>
 
-## Current signal
-
-<p align="center">
-  <img src="./assets/title_animation.svg" width="80%" alt="Animation décorative" />
-</p>
 
 <p align="center">
   <a href="https://github.com/1st-adambenjabbar">Access granted · Connect on GitHub</a>
@@ -84,4 +79,4 @@ I build and explore projects involving **robotics**, **industrial automation**, 
 
 ---
 
-<p align="center"><sub>Built with curiosity, engineering, and a little bit of the Grid.</sub></p>
+<p align="center"><sub>Built with curiosity, engineering, and a passion for building.</sub></p>
