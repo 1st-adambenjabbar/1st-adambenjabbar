@@ -2,7 +2,7 @@
   <img src="./assets/tron_banner.svg" width="100%" alt="Bannière thématique Tron" />
 </p>
 
-<h1 align="center">Adam Benjabbar</h1>
+<h1 align="center"> ADAM BENJABBAR </h1>
 
 <p align="center">
   <strong>Robotics • Embedded Systems • Software Engineering</strong>
@@ -24,10 +24,7 @@
 
 ## About
 
-I build and explore projects involving **robotics**, **industrial automation**, **embedded programming**, and **general software development**. My work spans from low-level hardware and microcontrollers to simulation, programming education, and developer tooling.
-
-> If you would like to collaborate or explore my work together, feel free to open an issue or start a discussion in one of my repositories.
-
+I'm into buildin' and explorin' projects involving **robotics**, **industrial automation**, **embedded programming**, and **general software development**.
 ## Technical toolkit
 
 ### Robotics and automation
