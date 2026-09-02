@@ -2,7 +2,7 @@
   <img src="./assets/tron_banner.svg" width="100%" alt="Bannière thématique Tron" />
 </p>
 
-<h1 align="center">Adam Ben Jabbar</h1>
+<h1 align="center">Adam Benjabbar</h1>
 
 <p align="center">
   <strong>Robotics • Embedded Systems • Software Engineering</strong>
